@@ -1,0 +1,37 @@
+/* สีตัวอักษร */
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+h1{
+    color: goldenrod;
+    font: size 40px;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+  }
+  p{
+    font-size: 30px;
+    font-family: 'Itim', cursive;
+    text-align: center;
+  }
+  .AA{
+    color: red;
+    font-family: 'Sriracha', cursive;
+    font-size: 30px;
+  }
+  div{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    text-align: center;
+  }
+ul{
+  font-family: 'Itim', cursive;
+  font-size: 30px;
+  text-align: center;
+}
